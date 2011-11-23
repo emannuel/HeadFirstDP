@@ -1,0 +1,3 @@
+Um method factory cuida da criação de objetos e a encapsula em 
+uma subclasse. Isso desliga o código-cliente na superclasse do código
+de criação de objeto na subclasse.
