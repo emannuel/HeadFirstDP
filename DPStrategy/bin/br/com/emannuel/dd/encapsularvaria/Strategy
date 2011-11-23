@@ -1,0 +1,4 @@
+Agora os comportamentos estão incapsulados nas implementacoes de flyBehavior e quackBehavior.
+
+Seria interessante tentar utilizar o padrão strategy para 
+fazer a tributação por região fiscal do sgfpod1!

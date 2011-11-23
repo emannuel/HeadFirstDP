@@ -1,0 +1,4 @@
+Resolver com interface para os compotamentos que não sao para todos os patos não foi uma boa sacada.
+Pois não teria reaproveitamento de código caso variso patos (nem todos) tivesse o mesmo comportamento de voar.
+
+Opa! Acho melhor encapsular o que varia!

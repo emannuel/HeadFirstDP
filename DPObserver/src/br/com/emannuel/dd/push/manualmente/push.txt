@@ -1,0 +1,5 @@
+Push (Empurrar)
+
+O estilo de listener push (empurrar) funciona de maneira a qual o subject (sujeito)
+envia os atributos necessarios para todos seus listeners, de maneira a qual os
+listeners não tenham possibilidade de ter acesso ao estado do subject.

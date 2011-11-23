@@ -1,0 +1,6 @@
+Pull (Puxar)
+
+O estilo de listener pull (puxar) funciona de maneira a qual o listener
+tenha que buscar a informação do sujeito (subject). Dessa forma, o subject tem
+getters para seus atributos e é passado como parametro no metodo update() do 
+listener para que o mesmo consiga pegar as informações que acha necessárias.
